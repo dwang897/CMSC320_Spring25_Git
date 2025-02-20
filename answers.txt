@@ -1,0 +1,4 @@
+Q1: Why might we consider using Git?
+
+Answer: Git has many advantages such as backing up code, recovering code, being able to branch and merge,
+and it makes it easy to work with other people.
